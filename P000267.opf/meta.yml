@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་སྙིང་པོ་ལེགས་བཤད་ནོར་བུའི་ཕྲེང་བ།
+    །
+  authors:
+  - མཛད་པ་པོ། རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+  sku: IBA-RD-1-1
+  layers:
+  - book_title
+  - author
+  - quotation
+web_metadata:
+  title:
+    en: A Jewel Ornament of Sublime Explanation
+    bo: དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་སྙིང་པོ་ལེགས་བཤད་ནོར་བུའི་ཕྲེང་བ།
+  collection:
+    en: IBA Rendawa Series–  Book 1
+    bo: རེད་མདའ་བ་རྩོམ་བྲིས།–  དེབ། ༡
+  author:
+    en: Rendawa Shonu Lodro
+    bo: རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-RD-1-1
+  category:
+    en: Abhidharma
+    bo: ཆོས་མངོན་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-RD-1-1.epub
+  description:
+    en: The core text specializing in the subject matter of Abhidharmasamuccaya.
+    bo: སློབ་དཔོན་ཐོག་མེད་ཀྱི་མངོན་པ་གོང་མའི་སྐོར་གསལ་བར་བྱེད་པའི་དཀའ་འགྲེལ།
