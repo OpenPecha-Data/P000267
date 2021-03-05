@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000267
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་སྙིང་པོ་ལེགས་བཤད་ནོར་བུའི་ཕྲེང་བ།
     །
   authors:
   - མཛད་པ་པོ། རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས།
-  sku: IBA-RD-1-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-RD-1-1
 web_metadata:
   title:
     en: A Jewel Ornament of Sublime Explanation
